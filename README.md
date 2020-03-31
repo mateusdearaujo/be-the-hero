@@ -19,6 +19,6 @@ Para o desenvolvimento do projeto foram utilizadas as seguintes tecnologias:
 
 ## Projeto
 
-O Be The Hero é um projeto para que ONGs possam cadastrar casos em que necessitem de ajuda a fim de que as pessoas interessadas possam verificá-los e ajudar financeiramente em um caso específico.
+O Be The Hero é um projeto desenvolvido para ajudar ONGS a divulgarem casos em que elas precisem de ajuda financeira.
 
 ![Be The Hero](https://pbs.twimg.com/media/EULFNxhXgAAWXcq.jpg)
